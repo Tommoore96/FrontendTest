@@ -1,0 +1,8 @@
+{
+  "name": "FrontendTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tommoore96/FrontendTest.git",
+  "author": "Tom Moore <tommoore96@live.co.uk>",
+  "license": "MIT"
+}
